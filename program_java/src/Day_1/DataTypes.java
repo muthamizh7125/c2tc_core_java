@@ -1,5 +1,5 @@
 
-package com.tnsif.dayone;
+package Day_1;
 
 
 public class DataTypes {
