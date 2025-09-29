@@ -1,4 +1,6 @@
-package Day_3;
+//Program to demonstrate simple class in Java
+package com.tnsif.daythree.encapsulation;
+
 public class OopsConceptDemo {
 	private int serialNum;
 	private String name;
@@ -28,7 +30,10 @@ public class OopsConceptDemo {
 		this.age = age;
 	}
 
+	// Object class method - to returns string representation of the object
+	@Override
 	public String toString() {
 		return "OopsConceptDemo [Serial Number=" + serialNum + ", name=" + name + ", age=" + age + "]";
 	}
+
 }
