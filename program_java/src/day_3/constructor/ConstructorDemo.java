@@ -1,8 +1,6 @@
 //Program to demonstrate creating objects with constructors 
 package day_3.constructor;
-
 import java.util.Scanner;
-
 public class ConstructorDemo {
 public static void main(String args[])
 {

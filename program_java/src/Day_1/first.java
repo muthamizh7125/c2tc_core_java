@@ -1,5 +1,4 @@
-package program_java;
-
+package Day_1;
 public class first {
 
 	public static void main(String[] args) {
