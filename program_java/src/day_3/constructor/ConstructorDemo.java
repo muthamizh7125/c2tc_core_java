@@ -1,5 +1,5 @@
 //Program to demonstrate creating objects with constructors 
-package com.tnsif.daythree.constructor;
+package day_3.constructor;
 
 import java.util.Scanner;
 
@@ -42,7 +42,6 @@ public static void main(String args[])
 	System.out.println(c2);
 	
 	sc.close();
-	A
 
 }
 }
