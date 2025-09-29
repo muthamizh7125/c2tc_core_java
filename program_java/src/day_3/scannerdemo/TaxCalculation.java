@@ -1,5 +1,5 @@
 //Program to demonstrate encapsulation
-package com.tnsif.daythree.scannerdemo;
+package day_3.scannerdemo;
 
 public class TaxCalculation {
 	// function to calculate tax
