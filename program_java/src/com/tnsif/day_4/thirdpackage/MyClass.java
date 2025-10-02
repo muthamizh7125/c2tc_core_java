@@ -17,12 +17,11 @@ public class MyClass {
 			System.out.println("MyClass object created");		
 		}
 		
-		public static MyClass getObject() //factory method
+		public static MyClass getObject() 
 		{
 			return obj;
 		}
 
-		@Override
 		public String toString() {
 			return "MyClass [id=" + id + "]";
 		}
