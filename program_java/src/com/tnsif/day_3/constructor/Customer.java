@@ -1,4 +1,4 @@
-//Program to demonstrate Constructor 
+
 package com.tnsif.day_3.constructor;
 
 public class Customer {
@@ -6,7 +6,6 @@ public class Customer {
 	 private int customerId;
 	 private String customerCity;
 	 
-	// Default Constructor
 	public Customer() {
 		System.out.println("Default Constructor");
 	}
