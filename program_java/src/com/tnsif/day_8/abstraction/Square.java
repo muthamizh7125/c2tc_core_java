@@ -1,6 +1,4 @@
-//Program to demonstrate abstraction
-package com.tnsif.dayeight.abstraction;
-
+package com.tnsif.day_8.abstraction;
 public class Square extends Shape{
 	private float side;
 	public Square()
@@ -11,8 +9,6 @@ public class Square extends Shape{
 	{
 		this.side=side;
 	}
-	
-	@Override
 	void calArea() {
 		super.area=side*side;		
 	}

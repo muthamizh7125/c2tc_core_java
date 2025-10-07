@@ -1,5 +1,4 @@
-//Program to demonstrate abstraction
-package com.tnsif.dayeight.abstraction;
+package com.tnsif.day_8.abstraction;
 
 public class Rectangle extends Shape{
 	private float width, height;
@@ -13,8 +12,6 @@ public class Rectangle extends Shape{
 		this.width = width;
 		this.height = height;
 	}
-
-	@Override
 	void calArea() {
 		area=width*height;		
 	}

@@ -2,7 +2,7 @@ package com.tnsif.day_6.staticvariable;
 public class Employee {
 	
 	private String name;
-	private int id
+	private int id;
 	
 	static String companyName = "TNS";
 

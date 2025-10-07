@@ -1,6 +1,4 @@
-//Account class
-package com.tnsif.dayeight.interfaces.implementinginterfaces;
-
+package com.tnsif.day_8.interfaces.implementinginterfaces;
 public class Account {
  private int accNo;
  private String name;
@@ -55,7 +53,6 @@ public void setBank(Bank bank) {
 	this.bank = bank;
 }
 
-@Override
  public String toString() {
      return "Account [accNo=" + accNo + ", name=" + name + ", balance=" + balance + "]";
  }
