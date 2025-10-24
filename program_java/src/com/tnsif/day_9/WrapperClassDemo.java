@@ -1,7 +1,8 @@
 package com.tnsif.day_9;
-public class WrapperClassDemo {
 
+public class WrapperClassDemo {
 	public static void main(String[] args) {
+		// Unboxing
 		Integer i = new Integer(10);
 		System.out.println(i);
 		int b = i.intValue();
@@ -15,7 +16,5 @@ public class WrapperClassDemo {
 		int a = 100;
 		Integer i1 = a;
 		System.out.println(i1);
-
 	}
-
 }

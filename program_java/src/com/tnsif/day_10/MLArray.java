@@ -1,4 +1,5 @@
 package com.tnsif.day_10;
+
 public class MLArray
 {
 	static void printArray(int c[][])

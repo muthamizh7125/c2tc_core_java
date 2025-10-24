@@ -1,7 +1,10 @@
 package com.tnsif.day_9;
+
 public class SampleStringDemo {
 
-	public static void main(String[] args) {
+	public static void main(String args[]) {
+
+		// Simple String Operations
 		char c[] = { 'I', 'n', 'd', 'i', 'a' };
 		String s1 = new String(c);
 		String s2 = new String(s1);
@@ -14,7 +17,5 @@ public class SampleStringDemo {
 				+ "operator.";
 
 		System.out.println(longStr);
-
 	}
-
 }

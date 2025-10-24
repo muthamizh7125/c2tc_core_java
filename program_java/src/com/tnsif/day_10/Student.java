@@ -1,4 +1,5 @@
 package com.tnsif.day_10;
+
 public class Student {
 	private int rollNo;
 	private String name;

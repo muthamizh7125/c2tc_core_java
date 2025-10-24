@@ -1,7 +1,8 @@
 package com.tnsif.day_9;
 public class StringBufferDemo {
+	public static void main(String args[]) {
 
-	public static void main(String[] args) {
+		// StringBuffer length vs. capacity.
 		StringBuffer buffer = new StringBuffer("Hello");
 		System.out.println("buffer = " + buffer);
 		System.out.println("length = " + buffer.length());
@@ -24,7 +25,5 @@ public class StringBufferDemo {
 		
 		System.out.println(buffer.reverse());
 		
-
 	}
-
 }
