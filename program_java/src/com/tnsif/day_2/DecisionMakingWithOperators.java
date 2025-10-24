@@ -1,4 +1,4 @@
-package com.tnsif.Day_2;
+package com.tnsif.day_2;
 public class DecisionMakingWithOperators {
 	public static void main(String[] args) {
 		int x = 8, y = 7;

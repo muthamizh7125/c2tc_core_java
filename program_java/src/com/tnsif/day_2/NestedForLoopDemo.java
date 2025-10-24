@@ -1,4 +1,4 @@
-package com.tnsif.Day_2;
+package com.tnsif.day_2;
 public class NestedForLoopDemo {
 	public static void main(String[] args) {
 		// program to print the multiplication tables in a given range by using nested

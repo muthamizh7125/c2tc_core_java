@@ -1,4 +1,4 @@
-package com.tnsif.Day_2;
+package com.tnsif.day_2;
 public class ContinueDemo {
 	public static void main(String[] args) {
 		for (int k = 5; k < 15; k++)

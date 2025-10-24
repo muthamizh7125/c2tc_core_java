@@ -1,4 +1,4 @@
-package com.tnsif.Day_13;
+package com.tnsif.day_13;
 
 public class ChildThread extends Thread {
 	private int n;

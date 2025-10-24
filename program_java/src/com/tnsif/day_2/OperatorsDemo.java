@@ -1,4 +1,4 @@
-package com.tnsif.Day_2;
+package com.tnsif.day_2;
 
 public class OperatorsDemo {
 	public static void main(String args[]) {
