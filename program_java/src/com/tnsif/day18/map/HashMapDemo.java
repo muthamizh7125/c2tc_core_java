@@ -1,8 +1,8 @@
-//Program to demonstrate HashMap class
+
 package com.tnsif.day18.map;
 import java.util.*;
 
-import com.tnsif.dayeighteen.Student;
+import com.tnsif..day18.map;
 class HashMapDemo 
 {
 	public static void main(String args[]) 
